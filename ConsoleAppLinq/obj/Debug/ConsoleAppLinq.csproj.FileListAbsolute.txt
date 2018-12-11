@@ -1,0 +1,7 @@
+C:\Users\marzian\source\repos\ConsoleAppLinq\ConsoleAppLinq\bin\Debug\ConsoleAppLinq.exe.config
+C:\Users\marzian\source\repos\ConsoleAppLinq\ConsoleAppLinq\bin\Debug\ConsoleAppLinq.exe
+C:\Users\marzian\source\repos\ConsoleAppLinq\ConsoleAppLinq\bin\Debug\ConsoleAppLinq.pdb
+C:\Users\marzian\source\repos\ConsoleAppLinq\ConsoleAppLinq\obj\Debug\ConsoleAppLinq.csprojAssemblyReference.cache
+C:\Users\marzian\source\repos\ConsoleAppLinq\ConsoleAppLinq\obj\Debug\ConsoleAppLinq.csproj.CoreCompileInputs.cache
+C:\Users\marzian\source\repos\ConsoleAppLinq\ConsoleAppLinq\obj\Debug\ConsoleAppLinq.exe
+C:\Users\marzian\source\repos\ConsoleAppLinq\ConsoleAppLinq\obj\Debug\ConsoleAppLinq.pdb
